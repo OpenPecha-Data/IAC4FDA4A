@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ1040
   title: རས་ཆུང་རྡོ་རྗེ་གྲགས་པའི་རྣམ་ཐར་རགས་བསྡུས་མགུར་རྣམ་རྒྱས་པ།
-  volume: ''
+  volume:
+    bc8d5e7206564131abad918b3ed4e470:
+      image_group_id: I1KG13516
+      title: Volume 1 of ras chung rdo rje grags pa'i rnam thar rags bsdus mgur rnam
+        rgyas pa/
+      volume_number: 1
+      total_pages: 190
   author: ''
+ebook_metadata:
+  title: རས་ཆུང་རྡོ་རྗེ་གྲགས་པའི་རྣམ་ཐར་རགས་བསྡུས་མགུར་རྣམ་རྒྱས་པ།
+  author: ''
+  sku: P006997
+  cover: cover.jpg
+  layers:
+  - pagination
